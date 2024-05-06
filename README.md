@@ -43,23 +43,37 @@ Here are the screenshots of different pages in the BlogProject website:
 - Home Page:
   ![Home Page](screenshots/home.png)
 
+
+
 - Contact Page:
   ![Contact Page](screenshots/contact.png)
+
+
 
 - About Page:
   ![About Page](screenshots/about.png)
 
+
+
 - Signup Page:
   ![Signup Page](screenshots/signup.png)
+
+
 
 - Login Page:
   ![Login Page](screenshots/login.png)
 
+
+
 - User Profile Page:
   ![User Profile Page](screenshots/profile.png)
 
+
+
 - Read More Page:
   ![Read More Page](screenshots/readmore.png)
+
+
 
 - Search Results Page:
   ![Search Results Page](screenshots/search.png)
